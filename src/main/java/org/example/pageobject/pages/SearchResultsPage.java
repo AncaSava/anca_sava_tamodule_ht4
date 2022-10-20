@@ -1,6 +1,6 @@
 package org.example.amazon_page_object;
 
-import org.example.pageobject.BasePage;
+import org.example.pageobject.pages.BasePage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
